@@ -5,11 +5,11 @@ title: "유계 일수익률에서 레버리지 로그감쇠의 고차 근사오�
 authors:
   - family-names: "김"
     given-names: "도연"
-version: "2026-11-19-v23"
+version: "1.0.0"
 date-released: "2026-11-19"
 repository-code: "https://github.com/dokim111/letf-mathematics-thesis"
 url: "https://github.com/dokim111/letf-mathematics-thesis"
-abstract: "수리과학 졸업논문 초기본 v0.4에 대응하는 정규화 나머지항, 경계 상수, 극값 전이와 차수별 임계값의 결정론적 검산 코드 및 이론 상수. 이론 검산은 원자료 없이 실행 가능하며, 실제 종목의 수치 예시에는 별도로 확보한 KRX 자료가 필요하다."
+abstract: "유계 일수익률에서 레버리지 로그감쇠의 고차 근사오차와 극값 전이를 연구하는 논문의 재현 코드. 정규화 나머지항, 경계 상수와 차수별 전이 임계값을 검산한다. 이론 검산은 시장 원자료 없이 실행 가능하며, 실제 종목의 수치 예시에는 별도로 확보한 KRX 자료가 필요하다."
 keywords:
   - "leveraged ETF"
   - "log drag"
